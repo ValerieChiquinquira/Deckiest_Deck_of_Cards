@@ -1,4 +1,4 @@
-# Deckiest_Deck_of_Cards# The Deckiest Deck of Cards
+# Deckiest_Deck_of_Cards
 
 ## Description 
 
