@@ -19,7 +19,7 @@ To clone this locally and run the RSpec tests:
     - <https://www.ruby-lang.org/en/documentation/installation/>
 
 - To clone github repo
-    - Open, create, cd into the desired folder
+    - Open, create, or cd into the desired folder
 
 ```bash 
 
@@ -27,7 +27,6 @@ git clone  <https://github.com/ValerieChiquinquira/Deckiest_Deck_of_Cards.git>
 
 cd Deckiest_Deck_of_Cards
 
-ruby cards.rb 
 ```
 - To run the rspec test (card_spec.rb AND deck_spec.rb)
 
